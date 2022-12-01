@@ -14,7 +14,7 @@ public class GameManager/* : MonoBehaviour*/
   // Start is called before the first frame update
   public void Start()
   {
-    Console.WriteLine("start");
+    // Console.WriteLine("start");
     //色のカテゴリを前のシーンから受け取る
     EColorCategory e = EColorCategory.red;
     var category = new ColorCategory(e);
@@ -22,20 +22,20 @@ public class GameManager/* : MonoBehaviour*/
     //カテゴリ内から色を6色ランダムに選択する
     choiceColor = category.RandomChoice(6);
 
-    Console.WriteLine("choice color");
-    foreach (var item in choiceColor)
-    {
-      Console.Write($"{item.GetColorName()} ");
-    }
-    Console.WriteLine();
+    // Console.WriteLine("choice color");
+    // foreach (var item in choiceColor)
+    // {
+    //   Console.Write($"{item.GetColorName()} ");
+    // }
+    // Console.WriteLine();
     //その中から答えを生成する
     answer = makeAnswer(choiceColor, 4);
-    Console.WriteLine("answer");
-    foreach (var item in answer)
-    {
-      Console.Write($"{item.GetColorName()} ");
-    }
-    Console.WriteLine();
+    // Console.WriteLine("answer");
+    // foreach (var item in answer)
+    // {
+    //   Console.Write($"{item.GetColorName()} ");
+    // }
+    // Console.WriteLine();
     // Q: makeAnserを直接入れてもいいのか？
     judge = new JudgeColor(answer);
   }
