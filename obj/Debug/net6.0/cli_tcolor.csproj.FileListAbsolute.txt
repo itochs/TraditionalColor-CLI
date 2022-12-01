@@ -1,0 +1,15 @@
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.csproj.AssemblyReference.cache
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.AssemblyInfoInputs.cache
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.AssemblyInfo.cs
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.csproj.CoreCompileInputs.cache
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/cli_tcolor
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/cli_tcolor.deps.json
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/cli_tcolor.runtimeconfig.json
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/cli_tcolor.dll
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/ref/cli_tcolor.dll
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/bin/Debug/net6.0/cli_tcolor.pdb
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.dll
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/ref/cli_tcolor.dll
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.pdb
+/Users/lika1/wsl/Ubuntu/c/Users/lika1/programs/Unity/cli_tcolor/obj/Debug/net6.0/cli_tcolor.genruntimeconfig.cache
